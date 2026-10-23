@@ -12,6 +12,9 @@ Building AI-powered applications, multi-agent systems, and web experiences.
   <a href="https://github.com/km4339">
     <img src="https://img.shields.io/badge/GitHub-km4339-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
+  <a href="https://www.linkedin.com/in/kevin-mathew-b02732330/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kevin_Mathew-0A66C2?style=for-the-badge" alt="Kevin Mathew on LinkedIn" />
+  </a>
 </p>
 
 ---
@@ -25,6 +28,7 @@ My interests include **software engineering, applied AI, and web development**. 
 - 🤖 Previously worked as an **Agentic AI Simulation Developer at Deep Brook Software**.
 - 🧠 Built systems using **LLMs, Model Context Protocol (MCP), and retrieval-augmented generation (RAG)**.
 - 🌐 Developed **SpiceTrail**, an AI-powered South Asian recipe web application.
+- 🛡️ Building **WatchTower**, a browser-based security dashboard using AI person detection and custom monitoring zones.
 - 🤝 Experienced in collaborative development, Git workflows, and Agile teams.
 - 🦅 Eagle Scout and community volunteer.
 
@@ -79,21 +83,29 @@ Worked on an AI-driven simulation pipeline connecting Node.js, language models, 
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### 🌶️ SpiceTrail
-**AI-Powered South Asian Recipe Web App**
+### 🛡️ WatchTower — AI-Powered Security Dashboard
 
-A web application that helps users discover South Asian recipes through personalized recommendations and interactive cooking guidance.
+A browser-based security dashboard that uses computer vision to detect people, monitor custom zones, and organize detection events.
 
-- Personalized recipe suggestions based on preferences and dietary needs.
-- AI chatbot for cooking guidance and ingredient substitutions.
-- Recommendations that account for South Asian cuisine and cooking practices.
-- Developed collaboratively in a **four-person Agile team**.
+- Integrated **TensorFlow.js and COCO-SSD** for browser-based person detection.
+- Added custom monitoring zones, adjustable confidence thresholds, and configurable alert cooldowns.
+- Built event review features with snapshots, status filters, browser storage, and CSV export.
+- Includes simulation and webcam modes; live webcam validation is ongoing.
 
-**Built with:** Python · JavaScript · HTML/CSS · OpenAI API
+**Technologies:** JavaScript · HTML/CSS · TensorFlow.js · COCO-SSD
 
----
+### 🌶️ SpiceTrail — AI-Powered South Asian Recipe Web App
+
+A web application that helps users discover South Asian recipes through personalized recommendations, ingredient filtering, and interactive cooking guidance.
+
+- Personalized recipe suggestions based on user preferences and dietary needs.
+- Integrated an AI chatbot for cooking guidance and ingredient substitutions.
+- Combined culturally relevant recommendations with ingredient-based recipe discovery.
+- Collaborated in a **four-person Agile team** using Git for version control.
+
+**Technologies:** Python · JavaScript · HTML/CSS · OpenAI API
 
 ## 🌱 Beyond Code
 
